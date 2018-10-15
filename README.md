@@ -28,7 +28,7 @@ With great thanks to the whole dev. group of OpenMQTTgateway
   - ChiefZ
   - 8666 
 
-This is an fork of OpenMQTTgateway v0.8 creating a lightweight implementation tested on the following hardware:
+This is an fork of OpenMQTTgateway v0.8 creating a lightweight implementation meant for KAKU receiving and sending of RF signals tested on the following hardware:
 - ESP8266 NodeMCU v2
 - Receiver - RF SRX882 v1.3
 - Transmitter - TX STX882 v1.1
